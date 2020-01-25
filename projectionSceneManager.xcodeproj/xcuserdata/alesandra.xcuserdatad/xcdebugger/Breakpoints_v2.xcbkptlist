@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE70F46B-7CB9-4550-8CEF-762E52D0D632"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "701C59E9-F979-4D8B-A64C-99A3A3FD8774"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../libs/openFrameworks/utils/ofThread.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "701C59E9-F979-4D8B-A64C-99A3A3FD8774 - d0d5083636621055"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofThread::~ofThread()"
+                  moduleName = "projectionSceneManagerDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alesandra/Documents/CC/of_v20190928_osx_release/libs/openFrameworks/utils/ofThread.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "701C59E9-F979-4D8B-A64C-99A3A3FD8774 - 6de65e69ebe1cdb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofURLFileLoaderImpl::ofURLFileLoaderImpl()"
+                  moduleName = "projectionSceneManagerDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alesandra/Documents/CC/of_v20190928_osx_release/libs/openFrameworks/utils/ofThread.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "701C59E9-F979-4D8B-A64C-99A3A3FD8774 - f1007f6f740a5937"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ofURLFileLoaderImpl::~ofURLFileLoaderImpl()"
+                  moduleName = "projectionSceneManagerDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alesandra/Documents/CC/of_v20190928_osx_release/libs/openFrameworks/utils/ofThread.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "211">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEE5D9E0-B4DB-49DD-9BBE-42BD3CF42255"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../libs/openFrameworks/utils/ofThread.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
