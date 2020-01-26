@@ -14,3 +14,8 @@ Our group chose to create a flight of 6 stairs which we designed, laser cut and 
 
 Below is a video of ofxPimapper containing the mapped scenes into our 3D shape.
 https://vimeo.com/387150086
+
+Below is a video of the exhibition day showcasing my sketches on the projected stairs.
+https://vimeo.com/387249873
+
+
